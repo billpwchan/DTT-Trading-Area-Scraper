@@ -59504,7 +59504,7 @@
           business_stats.province = arrayItem.province;
           business_stats.trading_area_index = arrayItem.trading_area_index;
           output_list.push(business_stats);
-          var blob = new Blob([JSON.stringify(output_list)], { type: "application/json" });
+          var blob = new Blob([output_list], { type: "application/json" });
           var url = URL.createObjectURL(blob);
           var a = document.createElement("a");
           a.download = "backup.json";
