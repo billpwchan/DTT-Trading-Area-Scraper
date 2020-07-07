@@ -59501,8 +59501,8 @@
         let arrayItem = trading_area_list[i];
         cityList.getBusiness(arrayItem.trading_area, function (json) {
           let business_stats = JSON.stringify(json[0]);
-          business_stats.province = arrayItem.province;
-          business_stats.trading_area_index = arrayItem.trading_area_index;
+          business_stats["province"] = arrayItem.province;
+          business_stats["trading_area"] = arrayItem.trading_area;
           output_list.push(business_stats);
           var blob = new Blob([output_list], { type: "application/json" });
           var url = URL.createObjectURL(blob);
