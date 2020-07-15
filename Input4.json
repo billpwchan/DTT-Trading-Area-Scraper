@@ -1,0 +1,1946 @@
+[
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4271324834166,31.01785421011887",
+        "trading_area": "老闵行",
+        "SubwayNum": 22,
+        "BusStationNum": 150
+    },
+    {
+        "district": "闵行区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.40550550177916,31.151684040305017",
+        "trading_area": "古美",
+        "SubwayNum": 96,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.32167192045796,31.223513351507947",
+        "trading_area": "华漕",
+        "SubwayNum": 19,
+        "BusStationNum": 117
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.41237437990867,31.111444208549692",
+        "trading_area": "春申",
+        "SubwayNum": 59,
+        "BusStationNum": 198
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.37323368848709,31.185905299374845",
+        "trading_area": "龙柏",
+        "SubwayNum": 63,
+        "BusStationNum": 242
+    },
+    {
+        "district": "海丰县",
+        "type": "1-待定商圈",
+        "centerlnglat": "115.22287475392136,22.901090880512317",
+        "trading_area": "梅陇",
+        "SubwayNum": 0,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4729552140626,31.05140874732584",
+        "trading_area": "吴泾",
+        "SubwayNum": 140,
+        "BusStationNum": 88
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.35883573139762,31.162632089462257",
+        "trading_area": "七宝",
+        "SubwayNum": 53,
+        "BusStationNum": 203
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40614701264131,31.1379045699094",
+        "trading_area": "南方商城",
+        "SubwayNum": 80,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.3952425245748,31.160676385523672",
+        "trading_area": "万源城",
+        "SubwayNum": 85,
+        "BusStationNum": 263
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.38808559659917,31.11445091116218",
+        "trading_area": "莘庄",
+        "SubwayNum": 75,
+        "BusStationNum": 231
+    },
+    {
+        "district": "闵行区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.40503154880177,31.16808189495943",
+        "trading_area": "漕宝路",
+        "SubwayNum": 91,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40424150053349,31.076165798424647",
+        "trading_area": "颛桥",
+        "SubwayNum": 13,
+        "BusStationNum": 149
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.39680992015649,31.161351669872342",
+        "trading_area": "东兰路",
+        "SubwayNum": 76,
+        "BusStationNum": 272
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.39578171443834,31.190704728706958",
+        "trading_area": "虹梅路",
+        "SubwayNum": 93,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.35932243740848,31.179550983682468",
+        "trading_area": "航华",
+        "SubwayNum": 60,
+        "BusStationNum": 192
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.42448793270222,31.01083622275256",
+        "trading_area": "江川路",
+        "SubwayNum": 31,
+        "BusStationNum": 159
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.41932749845495,31.145638409379742",
+        "trading_area": "锦江乐园",
+        "SubwayNum": 91,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闵行区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.4141796951819,31.129107301346284",
+        "trading_area": "罗阳",
+        "SubwayNum": 53,
+        "BusStationNum": 269
+    },
+    {
+        "district": "闵行区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.38930731972657,31.16538062952763",
+        "trading_area": "静安新城",
+        "SubwayNum": 76,
+        "BusStationNum": 232
+    },
+    {
+        "district": "闵行区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.37823201570654,31.03266795932885",
+        "trading_area": "马桥",
+        "SubwayNum": 140,
+        "BusStationNum": 104
+    },
+    {
+        "district": "闵行区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.51306718591084,31.087438142969194",
+        "trading_area": "浦江",
+        "SubwayNum": 23,
+        "BusStationNum": 186
+    },
+    {
+        "district": "闵行区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.39139647810069,31.083836226796993",
+        "trading_area": "莘庄工业区",
+        "SubwayNum": 21,
+        "BusStationNum": 158
+    },
+    {
+        "district": "金山区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.02739757943647,30.89535311177717",
+        "trading_area": "枫泾",
+        "SubwayNum": 140,
+        "BusStationNum": 108
+    },
+    {
+        "district": "金山区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.32522665506212,30.735248220415556",
+        "trading_area": "金山卫",
+        "SubwayNum": 140,
+        "BusStationNum": 177
+    },
+    {
+        "district": "金山区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.34641334032838,30.725525505932914",
+        "trading_area": "石化",
+        "SubwayNum": 140,
+        "BusStationNum": 217
+    },
+    {
+        "district": "金山区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.32262328976844,30.88923995207446",
+        "trading_area": "亭林",
+        "SubwayNum": 140,
+        "BusStationNum": 93
+    },
+    {
+        "district": "金山区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.17291294729992,30.900726564978363",
+        "trading_area": "朱泾",
+        "SubwayNum": 140,
+        "BusStationNum": 91
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.5097807684356,31.302659966981942",
+        "trading_area": "复旦大学",
+        "SubwayNum": 95,
+        "BusStationNum": 280
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.54093669503487,31.293868423280532",
+        "trading_area": "黄兴公园",
+        "SubwayNum": 80,
+        "BusStationNum": 215
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.53036199565165,31.28353936946367",
+        "trading_area": "控江路",
+        "SubwayNum": 107,
+        "BusStationNum": 261
+    },
+    {
+        "district": "城关区",
+        "type": "1-待定商圈",
+        "centerlnglat": "103.85315843812249,36.05550051289518",
+        "trading_area": "平凉路",
+        "SubwayNum": 36,
+        "BusStationNum": 280
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.51801584691151,31.306362958717653",
+        "trading_area": "五角场",
+        "SubwayNum": 81,
+        "BusStationNum": 265
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.52307461052972,31.336184170718884",
+        "trading_area": "新江湾城",
+        "SubwayNum": 31,
+        "BusStationNum": 152
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.53975097176294,31.324129001033707",
+        "trading_area": "中原",
+        "SubwayNum": 16,
+        "BusStationNum": 135
+    },
+    {
+        "district": "杨浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.53248130332076,31.31583744320525",
+        "trading_area": "长海医院",
+        "SubwayNum": 63,
+        "BusStationNum": 207
+    },
+    {
+        "district": "杨浦区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.51728402725578,31.306272435723947",
+        "trading_area": "大学区",
+        "SubwayNum": 83,
+        "BusStationNum": 266
+    },
+    {
+        "district": "杨浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.52768796192507,31.2752000141459",
+        "trading_area": "江浦路",
+        "SubwayNum": 99,
+        "BusStationNum": 264
+    },
+    {
+        "district": "杨浦区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.51944423922289,31.281421066303242",
+        "trading_area": "鞍山",
+        "SubwayNum": 128,
+        "BusStationNum": 280
+    },
+    {
+        "district": "杨浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.52414692319209,31.280428498804376",
+        "trading_area": "新华医院",
+        "SubwayNum": 112,
+        "BusStationNum": 280
+    },
+    {
+        "district": "杨浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.5356820818715,31.27287430612558",
+        "trading_area": "长阳路",
+        "SubwayNum": 83,
+        "BusStationNum": 233
+    },
+    {
+        "district": "杨浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.53983818247227,31.286634141029552",
+        "trading_area": "杨浦公园",
+        "SubwayNum": 73,
+        "BusStationNum": 207
+    },
+    {
+        "district": "杨浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.5397835550478,31.29180850926899",
+        "trading_area": "延吉",
+        "SubwayNum": 83,
+        "BusStationNum": 220
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.44291654721948,31.24566165191527",
+        "trading_area": "长寿路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "杨浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.52585605451785,31.273927672039374",
+        "trading_area": "周家嘴路",
+        "SubwayNum": 107,
+        "BusStationNum": 270
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40767861812255,31.23705456935842",
+        "trading_area": "华师大",
+        "SubwayNum": 131,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.43729413207694,31.26953583477088",
+        "trading_area": "甘泉路",
+        "SubwayNum": 81,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.37241546940855,31.281261754229334",
+        "trading_area": "桃浦",
+        "SubwayNum": 24,
+        "BusStationNum": 116
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.38954199758119,31.25081605949484",
+        "trading_area": "梅川路",
+        "SubwayNum": 73,
+        "BusStationNum": 272
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.41010566549994,31.27354438556553",
+        "trading_area": "万里城",
+        "SubwayNum": 53,
+        "BusStationNum": 246
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.44485758208806,31.2693443442375",
+        "trading_area": "宜川路",
+        "SubwayNum": 99,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40756257319822,31.25553930130498",
+        "trading_area": "真如",
+        "SubwayNum": 82,
+        "BusStationNum": 268
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.38972629276739,31.25832178903618",
+        "trading_area": "真光新村",
+        "SubwayNum": 56,
+        "BusStationNum": 252
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.42371389249382,31.247303037586715",
+        "trading_area": "武宁路",
+        "SubwayNum": 113,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40679653844398,31.236858929572847",
+        "trading_area": "长风公园",
+        "SubwayNum": 123,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.39306351897261,31.250516760145363",
+        "trading_area": "长征",
+        "SubwayNum": 88,
+        "BusStationNum": 272
+    },
+    {
+        "district": "普陀区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.43739591289568,31.258149696269722",
+        "trading_area": "光新",
+        "SubwayNum": 132,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.39541081900312,31.239559649584457",
+        "trading_area": "金沙江路",
+        "SubwayNum": 80,
+        "BusStationNum": 267
+    },
+    {
+        "district": "普陀区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.43214162270854,31.256959632689675",
+        "trading_area": "石泉路",
+        "SubwayNum": 116,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.44936325257316,31.258897540000802",
+        "trading_area": "中远两湾城",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "普陀区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.45186292986445,31.247955917759555",
+        "trading_area": "玉佛寺",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.40948630104114,31.264784631799223",
+        "trading_area": "康建",
+        "SubwayNum": 67,
+        "BusStationNum": 265
+    },
+    {
+        "district": "松江区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.20157152694235,31.104778487113695",
+        "trading_area": "佘山",
+        "SubwayNum": 140,
+        "BusStationNum": 103
+    },
+    {
+        "district": "松江区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.21800632118601,31.054414303430633",
+        "trading_area": "松江大学城",
+        "SubwayNum": 13,
+        "BusStationNum": 147
+    },
+    {
+        "district": "松江区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.28225295616146,31.119508268548252",
+        "trading_area": "泗泾",
+        "SubwayNum": 13,
+        "BusStationNum": 141
+    },
+    {
+        "district": "松江区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.32268556217133,31.070595648311283",
+        "trading_area": "新桥",
+        "SubwayNum": 140,
+        "BusStationNum": 118
+    },
+    {
+        "district": "松江区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.2282324474591,31.040064411209798",
+        "trading_area": "松江新城",
+        "SubwayNum": 18,
+        "BusStationNum": 206
+    },
+    {
+        "district": "松江区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.2737560520136,31.089699851862374",
+        "trading_area": "洞泾",
+        "SubwayNum": 140,
+        "BusStationNum": 116
+    },
+    {
+        "district": "松江区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.22520991577656,31.041237767274083",
+        "trading_area": "方松",
+        "SubwayNum": 18,
+        "BusStationNum": 201
+    },
+    {
+        "district": "松江区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.21695406467964,31.011508988960298",
+        "trading_area": "永丰",
+        "SubwayNum": 17,
+        "BusStationNum": 261
+    },
+    {
+        "district": "松江区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.26795366846396,31.02565500104045",
+        "trading_area": "松江工业区",
+        "SubwayNum": 140,
+        "BusStationNum": 125
+    },
+    {
+        "district": "白下区",
+        "type": "4-优质商圈",
+        "centerlnglat": "118.79330676381011,32.043584668242424",
+        "trading_area": "淮海路",
+        "SubwayNum": 135,
+        "BusStationNum": 262
+    },
+    {
+        "district": "龙华区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "110.36398516003868,20.004131921784793",
+        "trading_area": "中山",
+        "SubwayNum": 0,
+        "BusStationNum": 163
+    },
+    {
+        "district": "卢湾区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.47291411605751,31.216424616955862",
+        "trading_area": "瑞金宾馆区",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.48042827605008,31.224615113713853",
+        "trading_area": "新天地",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "西乡塘区",
+        "type": "1-待定商圈",
+        "centerlnglat": "108.28713141056988,22.844485208752968",
+        "trading_area": "鲁班路",
+        "SubwayNum": 53,
+        "BusStationNum": 168
+    },
+    {
+        "district": "卢湾区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.47057229825555,31.22020110956197",
+        "trading_area": "复兴中路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.48268312710282,31.2286953545042",
+        "trading_area": "淮海公园",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.47548042948534,31.22384801059048",
+        "trading_area": "复兴公园",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.491408844715,31.209810233965342",
+        "trading_area": "九院",
+        "SubwayNum": 108,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.4676843726811,31.224869948510495",
+        "trading_area": "茂名南路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.4660456596742,31.221976212455672",
+        "trading_area": "陕西南路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.47327717409979,31.218024496647033",
+        "trading_area": "瑞金医院",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.48537340529339,31.207331567593283",
+        "trading_area": "五里桥",
+        "SubwayNum": 129,
+        "BusStationNum": 280
+    },
+    {
+        "district": "卢湾区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.4905867438191,31.211614704921274",
+        "trading_area": "制造局路",
+        "SubwayNum": 126,
+        "BusStationNum": 280
+    },
+    {
+        "district": "双流县",
+        "type": "1-待定商圈",
+        "centerlnglat": "103.8375542645704,30.582851796097504",
+        "trading_area": "金桥",
+        "SubwayNum": 140,
+        "BusStationNum": 44
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.70280987933484,31.19995380257467",
+        "trading_area": "川沙",
+        "SubwayNum": 26,
+        "BusStationNum": 170
+    },
+    {
+        "district": "拱墅区",
+        "type": "1-待定商圈",
+        "centerlnglat": "120.15557960818394,30.364477136062085",
+        "trading_area": "康桥",
+        "SubwayNum": 140,
+        "BusStationNum": 77
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.57992031782136,31.255900610590736",
+        "trading_area": "金杨新村",
+        "SubwayNum": 62,
+        "BusStationNum": 247
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.51463419226896,31.154581801115796",
+        "trading_area": "三林",
+        "SubwayNum": 71,
+        "BusStationNum": 230
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.51300280600132,31.241975714755444",
+        "trading_area": "陆家嘴",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.49465415456874,31.191556151066454",
+        "trading_area": "世博园区",
+        "SubwayNum": 120,
+        "BusStationNum": 276
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.51170898685415,31.180546216235754",
+        "trading_area": "上南地区",
+        "SubwayNum": 99,
+        "BusStationNum": 242
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.55769143660831,31.216025381005434",
+        "trading_area": "世纪公园",
+        "SubwayNum": 89,
+        "BusStationNum": 209
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.59565847306641,31.343380776472696",
+        "trading_area": "外高桥",
+        "SubwayNum": 17,
+        "BusStationNum": 128
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.54461380508054,31.243423149195053",
+        "trading_area": "源深体育中心",
+        "SubwayNum": 102,
+        "BusStationNum": 277
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.52762279537092,31.214854251966",
+        "trading_area": "塘桥",
+        "SubwayNum": 111,
+        "BusStationNum": 280
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.58370057809195,31.12142086027672",
+        "trading_area": "周浦",
+        "SubwayNum": 23,
+        "BusStationNum": 179
+    },
+    {
+        "district": "浦东新区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.6088340982934,31.208581644375354",
+        "trading_area": "张江",
+        "SubwayNum": 36,
+        "BusStationNum": 165
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.59094450731823,31.245701991574006",
+        "trading_area": "碧云社区",
+        "SubwayNum": 52,
+        "BusStationNum": 215
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.67114434202007,31.28467533952117",
+        "trading_area": "曹路",
+        "SubwayNum": 21,
+        "BusStationNum": 84
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.56492376712124,31.188152727035774",
+        "trading_area": "北蔡",
+        "SubwayNum": 71,
+        "BusStationNum": 150
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.53091611900017,31.225871860138675",
+        "trading_area": "东方路",
+        "SubwayNum": 113,
+        "BusStationNum": 241
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.52062452580084,31.165269177371435",
+        "trading_area": "东明路",
+        "SubwayNum": 98,
+        "BusStationNum": 204
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.61407039720451,31.300414630513004",
+        "trading_area": "高行",
+        "SubwayNum": 33,
+        "BusStationNum": 141
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.60207856546907,31.035870014548784",
+        "trading_area": "航头",
+        "SubwayNum": 140,
+        "BusStationNum": 76
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.55716087818034,31.21206500946129",
+        "trading_area": "花木",
+        "SubwayNum": 76,
+        "BusStationNum": 168
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.56442556300898,31.23257580078662",
+        "trading_area": "联洋",
+        "SubwayNum": 74,
+        "BusStationNum": 176
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.92535984976462,30.899438569263136",
+        "trading_area": "临港新城",
+        "SubwayNum": 15,
+        "BusStationNum": 80
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.51978601816677,31.20093820980183",
+        "trading_area": "临沂路",
+        "SubwayNum": 80,
+        "BusStationNum": 218
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.7652373349631,31.0525660148252",
+        "trading_area": "惠南",
+        "SubwayNum": 140,
+        "BusStationNum": 198
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.52796420605824,31.188333342169276",
+        "trading_area": "六里",
+        "SubwayNum": 75,
+        "BusStationNum": 225
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.51829689188409,31.19582897793087",
+        "trading_area": "南码头",
+        "SubwayNum": 95,
+        "BusStationNum": 212
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.56343842442645,31.208702973318484",
+        "trading_area": "龙阳路地铁",
+        "SubwayNum": 60,
+        "BusStationNum": 160
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.83278721072809,30.906104388434787",
+        "trading_area": "泥城",
+        "SubwayNum": 140,
+        "BusStationNum": 73
+    },
+    {
+        "district": "玄武区",
+        "type": "4-优质商圈",
+        "centerlnglat": "118.8083098751668,32.05070955429641",
+        "trading_area": "梅园",
+        "SubwayNum": 107,
+        "BusStationNum": 139
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.85606891038131,30.87321752335013",
+        "trading_area": "芦潮港",
+        "SubwayNum": 140,
+        "BusStationNum": 50
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.49706342848577,31.1776849471248",
+        "trading_area": "上钢新村",
+        "SubwayNum": 98,
+        "BusStationNum": 198
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.6647713008735,31.220001459472584",
+        "trading_area": "唐镇",
+        "SubwayNum": 14,
+        "BusStationNum": 138
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.53014088939335,31.230266701843888",
+        "trading_area": "潍坊",
+        "SubwayNum": 119,
+        "BusStationNum": 252
+    },
+    {
+        "district": "大邑县",
+        "type": "1-待定商圈",
+        "centerlnglat": "103.43337823750547,30.53834834729021",
+        "trading_area": "新场",
+        "SubwayNum": 140,
+        "BusStationNum": 20
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.50981377352923,31.164388230536062",
+        "trading_area": "杨东",
+        "SubwayNum": 104,
+        "BusStationNum": 215
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.55426453133383,31.244932157919656",
+        "trading_area": "洋泾",
+        "SubwayNum": 66,
+        "BusStationNum": 219
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.5061035123187,31.24273392192252",
+        "trading_area": "正大广场",
+        "SubwayNum": 128,
+        "BusStationNum": 280
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.51008554077602,31.183783987907514",
+        "trading_area": "七浦路",
+        "SubwayNum": 108,
+        "BusStationNum": 199
+    },
+    {
+        "district": "浦东新区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.76616804142135,31.116923092458862",
+        "trading_area": "祝桥",
+        "SubwayNum": 140,
+        "BusStationNum": 71
+    },
+    {
+        "district": "浦东新区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.55874452113036,31.25976813917425",
+        "trading_area": "杨浦大桥",
+        "SubwayNum": 67,
+        "BusStationNum": 208
+    },
+    {
+        "district": "杨浦区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.51847248635603,31.245330465361388",
+        "trading_area": "东外滩",
+        "SubwayNum": 116,
+        "BusStationNum": 280
+    },
+    {
+        "district": "西城区",
+        "type": "4-优质商圈",
+        "centerlnglat": "116.35716536539523,39.94710251670445",
+        "trading_area": "动物园",
+        "SubwayNum": 105,
+        "BusStationNum": 161
+    },
+    {
+        "district": "长宁区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4056829339784,31.205612475813236",
+        "trading_area": "古北",
+        "SubwayNum": 97,
+        "BusStationNum": 209
+    },
+    {
+        "district": "长宁区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.3697003332174,31.199321250271346",
+        "trading_area": "虹桥机场",
+        "SubwayNum": 57,
+        "BusStationNum": 160
+    },
+    {
+        "district": "长宁区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.43156105852111,31.211794433261975",
+        "trading_area": "上海影城",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "沙河口区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.60617220929177,38.91912253395041",
+        "trading_area": "中山公园",
+        "SubwayNum": 80,
+        "BusStationNum": 178
+    },
+    {
+        "district": "长宁区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.3985179952638,31.2126901349816",
+        "trading_area": "仙霞新村",
+        "SubwayNum": 99,
+        "BusStationNum": 205
+    },
+    {
+        "district": "长宁区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.40533309815004,31.217846499565226",
+        "trading_area": "天山路",
+        "SubwayNum": 124,
+        "BusStationNum": 214
+    },
+    {
+        "district": "长宁区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.38023122576998,31.193893895812735",
+        "trading_area": "程家桥",
+        "SubwayNum": 60,
+        "BusStationNum": 200
+    },
+    {
+        "district": "长宁区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.43947211057973,31.225076731826505",
+        "trading_area": "江苏路地铁",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "长宁区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.41013782238032,31.21658696955981",
+        "trading_area": "娄山关路",
+        "SubwayNum": 126,
+        "BusStationNum": 225
+    },
+    {
+        "district": "长宁区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4439205994722,31.22591905482419",
+        "trading_area": "镇宁路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "南明区",
+        "type": "1-待定商圈",
+        "centerlnglat": "106.71400892377366,26.568975380467872",
+        "trading_area": "遵义路",
+        "SubwayNum": 39,
+        "BusStationNum": 212
+    },
+    {
+        "district": "南明区",
+        "type": "1-待定商圈",
+        "centerlnglat": "106.72405851331678,26.572807514810236",
+        "trading_area": "新华路",
+        "SubwayNum": 32,
+        "BusStationNum": 194
+    },
+    {
+        "district": "奉贤区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.53067902307228,30.833700191144114",
+        "trading_area": "海湾",
+        "SubwayNum": 140,
+        "BusStationNum": 69
+    },
+    {
+        "district": "奉贤区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.51196855489826,30.991759008422846",
+        "trading_area": "金汇",
+        "SubwayNum": 140,
+        "BusStationNum": 61
+    },
+    {
+        "district": "奉贤区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.46749691818741,30.922795494066204",
+        "trading_area": "南桥",
+        "SubwayNum": 30,
+        "BusStationNum": 214
+    },
+    {
+        "district": "奉贤区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.40353245112573,30.90702503752978",
+        "trading_area": "庄行",
+        "SubwayNum": 140,
+        "BusStationNum": 65
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.47626194647461,31.28411671209507",
+        "trading_area": "广中路",
+        "SubwayNum": 97,
+        "BusStationNum": 230
+    },
+    {
+        "district": "奉贤区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.48037916556684,30.837015409371816",
+        "trading_area": "柘林",
+        "SubwayNum": 140,
+        "BusStationNum": 75
+    },
+    {
+        "district": "虹口区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.49010845867782,31.254293672539305",
+        "trading_area": "海宁路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50329972333232,31.269613970376113",
+        "trading_area": "和平公园",
+        "SubwayNum": 140,
+        "BusStationNum": 248
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.48212868312083,31.298528272457524",
+        "trading_area": "凉城",
+        "SubwayNum": 73,
+        "BusStationNum": 219
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4891110163756,31.273087626084223",
+        "trading_area": "鲁迅公园",
+        "SubwayNum": 130,
+        "BusStationNum": 259
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.48989478134824,31.263760238140712",
+        "trading_area": "四川北路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.49791928918191,31.287570541028444",
+        "trading_area": "曲阳地区",
+        "SubwayNum": 117,
+        "BusStationNum": 232
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50888083295975,31.284124236620226",
+        "trading_area": "四平路",
+        "SubwayNum": 132,
+        "BusStationNum": 226
+    },
+    {
+        "district": "虹口区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.50777484850657,31.276186885218692",
+        "trading_area": "大连",
+        "SubwayNum": 140,
+        "BusStationNum": 243
+    },
+    {
+        "district": "虹口区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.48736165178009,31.276684531886847",
+        "trading_area": "虹口足球场",
+        "SubwayNum": 102,
+        "BusStationNum": 246
+    },
+    {
+        "district": "虹口区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.48732178818204,31.264335590010585",
+        "trading_area": "东宝兴路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.48577749055501,31.29377267205075",
+        "trading_area": "江湾",
+        "SubwayNum": 106,
+        "BusStationNum": 221
+    },
+    {
+        "district": "虹口区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.50151615172045,31.297021596393076",
+        "trading_area": "运光",
+        "SubwayNum": 106,
+        "BusStationNum": 221
+    },
+    {
+        "district": "虹口区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50309243475482,31.268886668888015",
+        "trading_area": "临平路",
+        "SubwayNum": 138,
+        "BusStationNum": 251
+    },
+    {
+        "district": "徐汇区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.44724418279303,31.21683665934197",
+        "trading_area": "丁香花园",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.45364846190212,31.12363558166863",
+        "trading_area": "华泾",
+        "SubwayNum": 140,
+        "BusStationNum": 114
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.46071773630348,31.201942012653312",
+        "trading_area": "枫林路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.45617790989061,31.18079190703069",
+        "trading_area": "龙华",
+        "SubwayNum": 140,
+        "BusStationNum": 182
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.43755020179947,31.15214381934415",
+        "trading_area": "上海南站",
+        "SubwayNum": 86,
+        "BusStationNum": 177
+    },
+    {
+        "district": "海淀区",
+        "type": "1-待定商圈",
+        "centerlnglat": "116.35033682124175,39.95628284362252",
+        "trading_area": "交通大学",
+        "SubwayNum": 120,
+        "BusStationNum": 141
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.42635839548603,31.16861408834855",
+        "trading_area": "上海师大",
+        "SubwayNum": 140,
+        "BusStationNum": 197
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.42584634267503,31.175316068737644",
+        "trading_area": "田林",
+        "SubwayNum": 140,
+        "BusStationNum": 222
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.44550066535021,31.191115443543936",
+        "trading_area": "万体馆",
+        "SubwayNum": 140,
+        "BusStationNum": 226
+    },
+    {
+        "district": "徐汇区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.46185450891764,31.21890967872749",
+        "trading_area": "音乐学院",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "雨花区",
+        "type": "1-待定商圈",
+        "centerlnglat": "113.0259357672649,28.107089891337377",
+        "trading_area": "植物园",
+        "SubwayNum": 17,
+        "BusStationNum": 137
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.44847345796916,31.201153678704618",
+        "trading_area": "徐家汇",
+        "SubwayNum": 140,
+        "BusStationNum": 257
+    },
+    {
+        "district": "徐汇区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.4478530816518,31.216868023274817",
+        "trading_area": "复兴西路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "鼓楼区",
+        "type": "4-优质商圈",
+        "centerlnglat": "118.78160190497371,32.07535096415894",
+        "trading_area": "湖南路",
+        "SubwayNum": 92,
+        "BusStationNum": 163
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.42656565676205,31.174167973431516",
+        "trading_area": "漕河泾",
+        "SubwayNum": 140,
+        "BusStationNum": 214
+    },
+    {
+        "district": "徐汇区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.4350835040373,31.206092401926597",
+        "trading_area": "淮海西路",
+        "SubwayNum": 140,
+        "BusStationNum": 270
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.43106028479795,31.146808345125464",
+        "trading_area": "华东理工",
+        "SubwayNum": 60,
+        "BusStationNum": 197
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.450445269867,31.208216395491483",
+        "trading_area": "衡山路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.46915529219935,31.201072006004868",
+        "trading_area": "日晖",
+        "SubwayNum": 140,
+        "BusStationNum": 274
+    },
+    {
+        "district": "徐汇区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.42710028236502,31.142419184523547",
+        "trading_area": "凌云路",
+        "SubwayNum": 66,
+        "BusStationNum": 212
+    },
+    {
+        "district": "徐汇区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.46105959589629,31.221189634762545",
+        "trading_area": "襄阳公园",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.44900429894216,31.188110060882163",
+        "trading_area": "上海体育场",
+        "SubwayNum": 140,
+        "BusStationNum": 215
+    },
+    {
+        "district": "徐汇区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.46831010683812,31.20351069334589",
+        "trading_area": "斜土路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.45777191973758,31.213346639645376",
+        "trading_area": "岳阳",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "徐汇区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.458387537428,31.203540189603977",
+        "trading_area": "肇嘉浜路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闸北区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.45614222160556,31.31619448192347",
+        "trading_area": "彭浦新村",
+        "SubwayNum": 58,
+        "BusStationNum": 199
+    },
+    {
+        "district": "闸北区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4807280212303,31.258448904971416",
+        "trading_area": "老北站",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "宽城区",
+        "type": "4-优质商圈",
+        "centerlnglat": "125.33121259885863,43.91472336612178",
+        "trading_area": "火车站",
+        "SubwayNum": 79,
+        "BusStationNum": 252
+    },
+    {
+        "district": "闸北区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4629387584919,31.27845171193618",
+        "trading_area": "闸北公园",
+        "SubwayNum": 79,
+        "BusStationNum": 237
+    },
+    {
+        "district": "闸北区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4415138217433,31.2622233470515",
+        "trading_area": "中山北路",
+        "SubwayNum": 118,
+        "BusStationNum": 241
+    },
+    {
+        "district": "闸北区",
+        "type": "2-普通商圈",
+        "centerlnglat": "121.48422955760932,31.262759987385543",
+        "trading_area": "宝山路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闸北区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.47897385610567,31.262068501847555",
+        "trading_area": "北区汽车站",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闸北区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.46065578346452,31.311535571255533",
+        "trading_area": "场中路",
+        "SubwayNum": 60,
+        "BusStationNum": 209
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.45561334323594,31.306332786849296",
+        "trading_area": "共和新路",
+        "SubwayNum": 54,
+        "BusStationNum": 205
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4689599107185,31.272438202161837",
+        "trading_area": "和田",
+        "SubwayNum": 108,
+        "BusStationNum": 245
+    },
+    {
+        "district": "闸北区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.4684792017483,31.273364254367998",
+        "trading_area": "柳营路",
+        "SubwayNum": 107,
+        "BusStationNum": 249
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.46171976172673,31.25199919330547",
+        "trading_area": "天目西路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4649165397115,31.27882953921074",
+        "trading_area": "延长路",
+        "SubwayNum": 80,
+        "BusStationNum": 234
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.47509647717311,31.25993970926046",
+        "trading_area": "西藏北路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4428728303918,31.29485984831824",
+        "trading_area": "汶水路",
+        "SubwayNum": 60,
+        "BusStationNum": 192
+    },
+    {
+        "district": "闸北区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.46726413846451,31.2627538630006",
+        "trading_area": "芷江西路",
+        "SubwayNum": 140,
+        "BusStationNum": 258
+    },
+    {
+        "district": "嘉定区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.3445477484071,31.25953542260898",
+        "trading_area": "江桥",
+        "SubwayNum": 31,
+        "BusStationNum": 123
+    },
+    {
+        "district": "嘉定区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.29582613389545,31.34233743673304",
+        "trading_area": "马陆",
+        "SubwayNum": 140,
+        "BusStationNum": 44
+    },
+    {
+        "district": "嘉定区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.26074516396531,31.38802241111945",
+        "trading_area": "嘉定城区",
+        "SubwayNum": 10,
+        "BusStationNum": 160
+    },
+    {
+        "district": "嘉定区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.36975150075341,31.252825060532157",
+        "trading_area": "丰庄",
+        "SubwayNum": 42,
+        "BusStationNum": 159
+    },
+    {
+        "district": "嘉定区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.31875543401058,31.300098530771532",
+        "trading_area": "南翔",
+        "SubwayNum": 140,
+        "BusStationNum": 92
+    },
+    {
+        "district": "嘉定区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.26173359912235,31.405354222040867",
+        "trading_area": "菊园新区",
+        "SubwayNum": 10,
+        "BusStationNum": 120
+    },
+    {
+        "district": "嘉定区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.37487303376878,31.25687759178441",
+        "trading_area": "真新新村",
+        "SubwayNum": 53,
+        "BusStationNum": 160
+    },
+    {
+        "district": "静安区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4520610002125,31.22904970477882",
+        "trading_area": "静安寺",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "东湖区",
+        "type": "2-普通商圈",
+        "centerlnglat": "115.91910244208488,28.69114625357401",
+        "trading_area": "南京西路",
+        "SubwayNum": 47,
+        "BusStationNum": 184
+    },
+    {
+        "district": "静安区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4614250413893,31.236412340843074",
+        "trading_area": "北京西路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4509984442888,31.240706358988014",
+        "trading_area": "同乐坊",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.44988019288527,31.222881856385243",
+        "trading_area": "华山医院",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.45764251720996,31.24143749817946",
+        "trading_area": "江宁路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.44766283427884,31.238229523102575",
+        "trading_area": "康定路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.47132092532696,31.236556379201218",
+        "trading_area": "上海电视台",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.46757744216052,31.236164077334156",
+        "trading_area": "吴江路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.45218328438288,31.241391062230832",
+        "trading_area": "西康路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "江东区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.57418553639314,29.860444321363218",
+        "trading_area": "白鹤",
+        "SubwayNum": 78,
+        "BusStationNum": 257
+    },
+    {
+        "district": "青浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.2864730675504,31.177378155983238",
+        "trading_area": "徐泾",
+        "SubwayNum": 31,
+        "BusStationNum": 126
+    },
+    {
+        "district": "青浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.20647143905525,31.156974817243597",
+        "trading_area": "赵巷",
+        "SubwayNum": 140,
+        "BusStationNum": 79
+    },
+    {
+        "district": "青浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.18568135157764,31.203122802027256",
+        "trading_area": "重固",
+        "SubwayNum": 140,
+        "BusStationNum": 43
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50330732466286,31.216849799364827",
+        "trading_area": "董家渡",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4938522134401,31.22203521233689",
+        "trading_area": "老西门",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "青山湖区",
+        "type": "1-待定商圈",
+        "centerlnglat": "115.9502722932733,28.68778502876589",
+        "trading_area": "南京东路",
+        "SubwayNum": 39,
+        "BusStationNum": 153
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.51083946331816,31.213923706350517",
+        "trading_area": "南浦大桥",
+        "SubwayNum": 107,
+        "BusStationNum": 276
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50635059993212,31.22960305689527",
+        "trading_area": "十六铺",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "朝阳区",
+        "type": "4-优质商圈",
+        "centerlnglat": "125.33231256000015,43.89462707054373",
+        "trading_area": "人民广场",
+        "SubwayNum": 84,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.50286269014002,31.2492392307703",
+        "trading_area": "外滩",
+        "SubwayNum": 130,
+        "BusStationNum": 280
+    },
+    {
+        "district": "静安区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.4609890393561,31.239187508371238",
+        "trading_area": "新闸路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.49863992202206,31.208466743500114",
+        "trading_area": "半淞园路",
+        "SubwayNum": 125,
+        "BusStationNum": 274
+    },
+    {
+        "district": "黄浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.48890114498211,31.245445522123205",
+        "trading_area": "北京东路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.49515418664889,31.218970333981606",
+        "trading_area": "大兴街",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.49041090665848,31.23457742716793",
+        "trading_area": "金陵东路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.49870625217305,31.211953614911327",
+        "trading_area": "蓬莱公园",
+        "SubwayNum": 127,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.50760843349323,31.218299784674862",
+        "trading_area": "南外滩",
+        "SubwayNum": 119,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.49078423832536,31.22133903743474",
+        "trading_area": "西藏南路",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "黄浦区",
+        "type": "4-优质商圈",
+        "centerlnglat": "121.49740815267279,31.232097581743353",
+        "trading_area": "豫园",
+        "SubwayNum": 140,
+        "BusStationNum": 280
+    },
+    {
+        "district": "崇明县",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.7070762443075,31.397163368243646",
+        "trading_area": "长兴岛",
+        "SubwayNum": 140,
+        "BusStationNum": 42
+    },
+    {
+        "district": "市南区",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "120.31705644037515,36.07317694043645",
+        "trading_area": "云南路",
+        "SubwayNum": 28,
+        "BusStationNum": 170
+    },
+    {
+        "district": "崇明县",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.85770307388776,31.33663635293451",
+        "trading_area": "横沙岛",
+        "SubwayNum": 140,
+        "BusStationNum": 32
+    },
+    {
+        "district": "崇明县",
+        "type": "3-普通商圈（58/赶集）",
+        "centerlnglat": "121.4066884872769,31.6326657220162",
+        "trading_area": "城桥",
+        "SubwayNum": 140,
+        "BusStationNum": 168
+    },
+    {
+        "district": "崇明县",
+        "type": "1-待定商圈",
+        "centerlnglat": "121.81779721068304,31.510067395954238",
+        "trading_area": "陈家",
+        "SubwayNum": 140,
+        "BusStationNum": 38
+    }
+]
